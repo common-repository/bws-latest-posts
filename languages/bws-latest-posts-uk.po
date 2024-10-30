@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bws-latest-posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-04 10:03+0300\n"
+"PO-Revision-Date: 2016-07-04 10:03+0300\n"
+"Last-Translator: plugin@bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <plugin@bestwebsoft.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n%10==1 && n%100!=11) ? 3 : "
+"((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bws-latest-posts.php:34 ../bws-latest-posts.php:155
+msgid "Latest Posts Settings"
+msgstr "Налаштування Latest Posts"
+
+#: ../bws-latest-posts.php:91
+msgid "Latest Posts"
+msgstr "Останні пости"
+
+#: ../bws-latest-posts.php:142
+msgid "Settings saved."
+msgstr "Налаштування збережено."
+
+#: ../bws-latest-posts.php:150
+msgid "All plugin settings were restored."
+msgstr "Всі налаштування плагіну було скинуто до стандартних."
+
+#: ../bws-latest-posts.php:157 ../bws-latest-posts.php:496
+#: ../bws-latest-posts.php:510
+msgid "Settings"
+msgstr "Налаштування"
+
+#: ../bws-latest-posts.php:158
+msgid "Custom code"
+msgstr "Користувацький код"
+
+#: ../bws-latest-posts.php:168
+msgid ""
+"If you would like to display latest posts with a widget, you need to add the "
+"widget \"Latest Posts Widget\" in the Widgets tab."
+msgstr ""
+"Якщо ви хочете, щоб останні пости відображались у віджеті, додайте віджет "
+"\"Віджет Останніх постів\" у вкладці Віджети."
+
+#: ../bws-latest-posts.php:171
+msgid "Default image (full URL) if no featured image is available"
+msgstr "Зображення за замовчуванням (повний URL), якщо прев’ю не існує"
+
+#: ../bws-latest-posts.php:177
+msgid "Excerpt length"
+msgstr "Довжина цитати"
+
+#: ../bws-latest-posts.php:183
+msgid "\"Read more\" text"
+msgstr "Текст для \"more\""
+
+#: ../bws-latest-posts.php:189 ../bws-latest-posts.php:386
+msgid "Title"
+msgstr "Назва"
+
+#: ../bws-latest-posts.php:195
+msgid "Number of posts"
+msgstr "Кількість постів"
+
+#: ../bws-latest-posts.php:201 ../bws-latest-posts.php:398
+msgid "Show"
+msgstr "Відображати"
+
+#: ../bws-latest-posts.php:205 ../bws-latest-posts.php:401
+msgid "post date"
+msgstr "дату публікації"
+
+#: ../bws-latest-posts.php:206 ../bws-latest-posts.php:405
+msgid "author"
+msgstr "автора"
+
+#: ../bws-latest-posts.php:207 ../bws-latest-posts.php:409
+msgid "reading time"
+msgstr "час читання"
+
+#: ../bws-latest-posts.php:208 ../bws-latest-posts.php:413
+msgid "comments number"
+msgstr "кількість коментарів"
+
+#: ../bws-latest-posts.php:209 ../bws-latest-posts.php:417
+msgid "featured image"
+msgstr "обране зображення"
+
+#: ../bws-latest-posts.php:210 ../bws-latest-posts.php:421
+msgid "excerpt"
+msgstr "цитата"
+
+#: ../bws-latest-posts.php:224
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: ../bws-latest-posts.php:247
+msgid "Latest Posts Widget"
+msgstr "Віджет Останніх постів"
+
+#: ../bws-latest-posts.php:248
+msgid "Widget for displaying Latest Posts."
+msgstr "Віджет для відображення Останніх Постів."
+
+#: ../bws-latest-posts.php:306
+msgid "ago"
+msgstr "назад"
+
+#: ../bws-latest-posts.php:311
+msgid "by"
+msgstr " автором"
+
+#: ../bws-latest-posts.php:323
+msgid "less than 1 min read"
+msgstr "менше 1 хв читання"
+
+#: ../bws-latest-posts.php:325
+msgid "more than 1 hour read"
+msgstr "більш 1 години читання"
+
+#: ../bws-latest-posts.php:329
+#, php-format
+msgid "%s min read"
+msgstr "%s хв читання"
+
+#: ../bws-latest-posts.php:335
+msgid "No comments"
+msgstr "Без коментарів"
+
+#: ../bws-latest-posts.php:335
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: ../bws-latest-posts.php:335
+msgid "% Comments"
+msgstr "% коментарів"
+
+#: ../bws-latest-posts.php:390
+msgid "Number of posts to show"
+msgstr "Кількість постів"
+
+#: ../bws-latest-posts.php:394
+msgid "Category"
+msgstr "Категорія"
+
+#: ../bws-latest-posts.php:395
+msgid "All categories"
+msgstr "Всі категорії"
+
+#: ../bws-latest-posts.php:511
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../bws-latest-posts.php:512
+msgid "Support"
+msgstr "Тех.підтримка"
+
+#~ msgid "Popular Posts"
+#~ msgstr "Popular Posts"
+
+#~ msgid "Widget title"
+#~ msgstr "Назва віджету"
+
+#~ msgid "Display"
+#~ msgstr "Показувати"
+
+#~ msgid "views number"
+#~ msgstr "кількість переглядів"
+
+#~ msgid "Order by number of"
+#~ msgstr "Сортування за кількістю"
+
+#~ msgid "views"
+#~ msgstr "переглядів"
+
+#~ msgid "Posted"
+#~ msgstr "Опубліковано"
+
+#~ msgid "on"
+#~ msgstr " "
+
+#~ msgid "one view"
+#~ msgid_plural "%s views"
+#~ msgstr[0] "один перегляд"
+#~ msgstr[1] "%s перегляди"
+#~ msgstr[2] "%s переглядів"
+#~ msgstr[3] "%s перегляд"
+
+#~ msgid "Setttings"
+#~ msgstr "Налаштування"
+
+#~ msgid "Notice:"
+#~ msgstr "Зауважте:"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Налаштування плагіну змінено. Щоб їх зберегти, будь ласка, не забудьте "
+#~ "клікнути \"Зберегти зміни\" "
+
+#~ msgid "requires"
+#~ msgstr "вимагає"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "або вище, ось чому його було деактивовано! Будь ласка, оновіть WordPress "
+#~ "та спробуйте ще раз"
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Назад на WordPress"
+
+#~ msgid "Plugins page"
+#~ msgstr "Сторінка плагінів"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ "Якщо вам сподобався наш плагін, будь ласка, поставте йому 5 зірочок на "
+#~ "WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Оцінити плагін"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Якщо виникли проблеми, будь ласка, повідомте нам"

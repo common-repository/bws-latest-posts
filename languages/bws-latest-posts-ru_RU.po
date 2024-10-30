@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bws-latest-posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-04 10:02+0300\n"
+"PO-Revision-Date: 2016-07-04 10:03+0300\n"
+"Last-Translator: plugin@bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language-Team: bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n%10==1 && n%100!=11) ? 3 : "
+"((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bws-latest-posts.php:34 bws-latest-posts.php:155
+msgid "Latest Posts Settings"
+msgstr "Настройки Latest Posts"
+
+#: bws-latest-posts.php:91
+msgid "Latest Posts"
+msgstr "Последние посты"
+
+#: bws-latest-posts.php:142
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: bws-latest-posts.php:150
+msgid "All plugin settings were restored."
+msgstr "Все настройки плагина восстановлены."
+
+#: bws-latest-posts.php:157 bws-latest-posts.php:496 bws-latest-posts.php:510
+msgid "Settings"
+msgstr "Настройки"
+
+#: bws-latest-posts.php:158
+msgid "Custom code"
+msgstr "Пользовательский код"
+
+#: bws-latest-posts.php:168
+msgid ""
+"If you would like to display latest posts with a widget, you need to add the "
+"widget \"Latest Posts Widget\" in the Widgets tab."
+msgstr ""
+"Если вы желаете показывать последние записи при помощи виджета, добавьте "
+"виджет \"Виджет Последних записей\" во вкладке Виджеты."
+
+#: bws-latest-posts.php:171
+msgid "Default image (full URL) if no featured image is available"
+msgstr "Изображение по умолчанию (полный URL), если у поста нет изображения"
+
+#: bws-latest-posts.php:177
+msgid "Excerpt length"
+msgstr "Длина цитаты"
+
+#: bws-latest-posts.php:183
+msgid "\"Read more\" text"
+msgstr "Текст для ссылки \"more\""
+
+#: bws-latest-posts.php:189 bws-latest-posts.php:386
+msgid "Title"
+msgstr "Заголовок"
+
+#: bws-latest-posts.php:195
+msgid "Number of posts"
+msgstr "Количество постов"
+
+#: bws-latest-posts.php:201 bws-latest-posts.php:398
+msgid "Show"
+msgstr "Отображать"
+
+#: bws-latest-posts.php:205 bws-latest-posts.php:401
+msgid "post date"
+msgstr "дату публикации"
+
+#: bws-latest-posts.php:206 bws-latest-posts.php:405
+msgid "author"
+msgstr "автора"
+
+#: bws-latest-posts.php:207 bws-latest-posts.php:409
+msgid "reading time"
+msgstr "время чтения"
+
+#: bws-latest-posts.php:208 bws-latest-posts.php:413
+msgid "comments number"
+msgstr "число комментариев"
+
+#: bws-latest-posts.php:209 bws-latest-posts.php:417
+msgid "featured image"
+msgstr "избранное изображение"
+
+#: bws-latest-posts.php:210 bws-latest-posts.php:421
+msgid "excerpt"
+msgstr "цитата"
+
+#: bws-latest-posts.php:224
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: bws-latest-posts.php:247
+msgid "Latest Posts Widget"
+msgstr "Виджет Последних записей"
+
+#: bws-latest-posts.php:248
+msgid "Widget for displaying Latest Posts."
+msgstr "Виджет для отображения Последних записей."
+
+#: bws-latest-posts.php:306
+msgid "ago"
+msgstr "назад"
+
+#: bws-latest-posts.php:311
+msgid "by"
+msgstr " автором"
+
+#: bws-latest-posts.php:323
+msgid "less than 1 min read"
+msgstr "менее 1 мин чтения"
+
+#: bws-latest-posts.php:325
+msgid "more than 1 hour read"
+msgstr "более 1 часа чтения"
+
+#: bws-latest-posts.php:329
+#, php-format
+msgid "%s min read"
+msgstr "%s мин чтения"
+
+#: bws-latest-posts.php:335
+msgid "No comments"
+msgstr "Нет комментариев"
+
+#: bws-latest-posts.php:335
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: bws-latest-posts.php:335
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: bws-latest-posts.php:390
+msgid "Number of posts to show"
+msgstr "Количество постов"
+
+#: bws-latest-posts.php:394
+msgid "Category"
+msgstr "Категория"
+
+#: bws-latest-posts.php:395
+msgid "All categories"
+msgstr "Все категории"
+
+#: bws-latest-posts.php:511
+msgid "FAQ"
+msgstr "FAQ"
+
+#: bws-latest-posts.php:512
+msgid "Support"
+msgstr "Тех.Поддержка"
+
+#~ msgid "Popular Posts"
+#~ msgstr "Popular Posts"
+
+#~ msgid "Widget title"
+#~ msgstr "Название виджета"
+
+#~ msgid "Display"
+#~ msgstr "Показывать"
+
+#~ msgid "views number"
+#~ msgstr "количество просмотров"
+
+#~ msgid "Order by number of"
+#~ msgstr "Сортировать по количеству"
+
+#~ msgid "views"
+#~ msgstr "просмотров"
+
+#~ msgid "Posted"
+#~ msgstr "Опубликовано"
+
+#~ msgid "on"
+#~ msgstr " "
+
+#~ msgid "one view"
+#~ msgid_plural "%s views"
+#~ msgstr[0] "один просмотр"
+#~ msgstr[1] "%s просмотра"
+#~ msgstr[2] "%s  просмотров"
+#~ msgstr[3] "%s просмотр"
+
+#~ msgid "Setttings"
+#~ msgstr "Настройки"
+
+#~ msgid "Notice:"
+#~ msgstr "Внимание:"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Настройки плагина были изменены. Для того, чтобы сохранить их, "
+#~ "пожалуйста, не забудьте нажать кнопку \"Сохранить\"."
+
+#~ msgid "requires"
+#~ msgstr "требует"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "или выше, поэтому плагин был деактивирован! Пожалуйста, обновите "
+#~ "WordPress и попробуйте снова."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Вернуться к WordPress"
+
+#~ msgid "Plugins page"
+#~ msgstr "Страница плагинов"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ "Если вам понравился плагин, мы будем благодарны, если вы поставите нам 5 "
+#~ "звезд на WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Оценить плагин"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Если у вас есть какие-то вопросы, обращайтесь"
+
+#~ msgid "Learn More"
+#~ msgstr "Подробнее"
+
+#~ msgid ""
+#~ "It’s time to upgrade your <strong>Contact Form plugin</strong> to "
+#~ "<strong>PRO</strong> version"
+#~ msgstr ""
+#~ "Пора обновить <strong>Contact Form plugin</strong> до <strong>PRO</"
+#~ "strong> версии"
+
+#~ msgid "Extend standard plugin functionality with new great options."
+#~ msgstr "Расширение стандартного функционала плагина новыми опциями."
+
+#~ msgid ""
+#~ "<strong>Contact Form to DB</strong> allows to store your messages to the "
+#~ "database."
+#~ msgstr ""
+#~ "<strong>Contact Form to DB</strong>  позволяет хранить ваши сообщения в "
+#~ "базе данных."
+
+#~ msgid "Manage messages that have been sent from your website."
+#~ msgstr "Управление сообщениями, которые были отправлены с вашего сайта."
